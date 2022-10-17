@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinthiafontoura/jest1.git"
+  },
+  "author": "Cinthia Fontoura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinthiafontoura/jest1/issues"
+  },
+  "homepage": "https://github.com/cinthiafontoura/jest1#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
